@@ -1,5 +1,8 @@
 # Vabu---labu---dab---dab
 something there
+{
+
+
 
 namespace Task1
 {
@@ -120,4 +123,5 @@ namespace Task1
           return score;   
         }
     }
+}
 }
